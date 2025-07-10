@@ -1,6 +1,6 @@
 # TaskFlow - Beautiful To-Do List Web Application
 
-![TaskFlow Logo]
+![TaskFlow Logo](https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
 
 A modern, lightweight task management application built with React, TypeScript, and Tailwind CSS. TaskFlow combines beautiful design with powerful functionality to help users stay organized and productive.
 
